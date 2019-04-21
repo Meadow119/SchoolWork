@@ -1,12 +1,3 @@
-/*
-Bradley Poleski
-2018FEB15
-CIS 117 Java Programming I
-CIS117.2476.W18
-Employee Wage Calculator
-This program takes user input and calculates the wage, including overtime.
- */
-
 import java.util.*;
 
 public class Ch6Asg {
