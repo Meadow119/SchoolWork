@@ -1,13 +1,3 @@
-/*
-Bradley Poleski
-2018February07
-CIS 117 Java Programming I
-CIS117.2476.W18
-Chapter 5 Assignment
-Phone Number Dissector
-This program breaks down a phone number that was entered by the user and outputs the different parts.
- */
-
 import java.util.*;
 
 
