@@ -1,13 +1,3 @@
-/*
-Bradley Poleski
-2018Feb09
-CIS 117 Java Programming I
-CIS117.2476.W18
-Chapter 4 Assignment
-Greenville County Idol
-This program calculates the turnout and revenue earned from Greenville County Idol.
- */
-
 import java.util.Scanner;
 
 public class Asg4 {
