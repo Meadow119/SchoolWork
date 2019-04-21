@@ -1,12 +1,3 @@
-/********************************
- * Bradley Poleski
- * Java Programming I
- * CIS117.2476.W18
- * Professor Koets
- * Bookstore Program
- * This program creates an ArrayList of books for a bookstore collection.
- ********************************/
-
 import java.util.*;
 import java.lang.*;
 import java.awt.*;
