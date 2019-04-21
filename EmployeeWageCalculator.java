@@ -33,12 +33,6 @@ do {
     //Pay Rate
     System.out.println("Please enter the hourly pay rate.");
 
-    //Shift
-
-    //Hours Worked
-
-    //Overtime
-
 
 //Calculate wage method
 
