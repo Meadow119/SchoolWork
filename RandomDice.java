@@ -1,12 +1,3 @@
-/*
-Bradley Poleski
-Java Programming I
-CIS117.2476.W18
-2018MAR23
-Dice Roll Program
-This program simulates rolling dice based on user input, stores them in an array and prints the result.
- */
-
 //Needed for Scanner utility later
 import java.util.*;
 
