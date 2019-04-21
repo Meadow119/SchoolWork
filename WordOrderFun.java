@@ -1,12 +1,3 @@
-/********************************
- * Bradley Poleski
- * Java Programming I
- * CIS117.2476.W18
- * Professor Koets
- * Word Order Game
- * This program creates a word game in a JFrame window.
- ********************************/
-
 import javax.swing.*; //For JFrame
 import java.awt.*;
 import java.util.ArrayList;
