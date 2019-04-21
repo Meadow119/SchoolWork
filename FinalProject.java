@@ -1,10 +1,3 @@
-/*********************
- * Bradley Poleski
- * 16Apr2018
- * CIS117.2476.W18
- * W0401233
- ********************/
-
 import javax.swing.*;
 import java.util.*;
 import java.awt.*;
