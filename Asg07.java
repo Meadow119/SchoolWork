@@ -1,10 +1,3 @@
-/*
-Bradley Poleski
-2018MAR07
-CIS 117 Java Programming I
-Character Name, Health and Attack
-This program tests the player class to ensure the name, health and attack methods work.
- */
 import java.util.*;
 
 
